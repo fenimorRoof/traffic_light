@@ -1,0 +1,32 @@
+#rectangle {
+	width: 100px;
+	height: 290px;
+	background: black;
+  margin-left: 45%;
+  z-index: 0;
+}
+
+.lights  {
+  width: 88px;
+  height: 88px;
+  -moz-border-radius: 50px;
+  -webkit-border-radius: 50px;
+  border-radius: 50px;
+  margin-left: 6%;
+  margin-top: 7%;
+
+}
+
+#red-light {
+  background: red;
+}
+
+#yellow-light {
+  background: yellow;
+	opacity: 0.3;
+}
+
+#green-light {
+  background: green;
+	opacity: 0.3;
+}
